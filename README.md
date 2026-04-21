@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Amitesh Maurya  
 
-<!--
-**amiteshmaurya1/amiteshmaurya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | MERN, Next.js, Python | MCA ’27**
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable web & mobile applications  
+💡 Focused on clean architecture, performance & modern UI systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About  
+
+Full-stack developer with hands-on experience in building **production-ready applications**, including dashboards, CMS platforms, and AI-powered tools.
+
+Strong interest in:
+- System design & scalable architectures  
+- AI / Computer Vision systems  
+- Developer tooling & automation  
+
+---
+
+## 💼 Skills  
+
+### Frontend & Mobile  
+React • Next.js • React Native • TypeScript • Tailwind  
+
+### Backend & APIs  
+Node.js • Express • Python • REST APIs  
+
+### Databases  
+MongoDB • MySQL • Firebase • Prisma • PostgreSQL
+
+### Authentication  
+JWT • NextAuth • RBAC  
+
+### AI & Computer Vision  
+OpenCV • Face Recognition • Image Processing  
+
+### Tools & DevOps  
+Git • Docker • GitHub Actions • Postman  
+
+---
+
+## 🛠️ Projects  
+- **AI Modules** – Workflow-based intelligent systems  
+- **Custom CMS** – Role-based dashboard system  
+- **Admin Dashboards** -  Role-based dashboard system  
+
+---
+
+## 📊 GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=amitesh-maurya&show_icons=true)  
+
+---
+
+## 📫 Connect  
+
+- Portfolio: https://amiteshmaurya.com  
+- LinkedIn: https://linkedin.com/in/amitesh-maurya  
+
+---
