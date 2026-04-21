@@ -92,9 +92,3 @@ Strong interest in:
 
 ---
 
-## 📫 Connect  
-
-- Portfolio: https://amiteshmaurya.com  
-- LinkedIn: https://linkedin.com/in/amitesh-maurya  
-
----
