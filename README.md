@@ -85,10 +85,10 @@ Strong interest in:
 ## 📊 GitHub Stats  
 
 ### 📊 GitHub Stats & Activity  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiteshmaurya1&layout=compact&theme=radical)  
-![Amitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiteshmaurya1&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats-amitesh.vercel.app?user=amiteshmaurya1&theme=radical)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amiteshmaurya1&theme=react-dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiteshctgs&layout=compact&theme=radical)  
+![Amitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiteshctgs&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats-amitesh.vercel.app?user=amiteshctgs&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amiteshctgs&theme=react-dark)  
 
 ---
 
